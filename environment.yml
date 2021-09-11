@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - pip
+  - mysql-connector-python=8.0.26
   - pip:
     - pandas
     - matplotlib
