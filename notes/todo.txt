@@ -1,0 +1,4 @@
+TODO:
+- Create new connection class, inheriting from MySQLConnection
+- setting up of 'setup.py'	
+
