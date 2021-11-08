@@ -1,4 +1,19 @@
-TODO:
+TODO (by priority):
+- Find a way for populating the database:
+	- create a command line tool for building_NBA_database
+		this will extract the information required from the web and convert it into 
+		a file that can be used for populating the database:
+		Create a file for:
+		players
+		stats
+		seasons
+	- populating the database:
+		starting from the input file from previos step:
+			open the file and read rows
+			insert the row in the proper table of the database
 - Create new connection class, inheriting from MySQLConnection
 - setting up of 'setup.py'	
+
+
+
 
